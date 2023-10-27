@@ -1,0 +1,44 @@
+h1{font-size: larger;}
+    h1{font-style:Kavoon;
+        font-size: 90px;      
+    }
+
+    p{font-size: 20px ;
+        font-style: italic;
+        font-weight: bolder;
+        margin-top: -3cm;
+        margin-left: 8.5cm;
+        font-weight: 400;
+    }
+    .Apple{
+        font-style: italic;
+        font-weight: bolder;
+        color: darkblue;
+        background-color: orange;
+        border: 0cm;
+        cursor: pointer;
+    }
+    .Google{
+        font-style: italic;
+        font-weight: bolder;
+        color: darkblue;
+        background-color: orange;
+        border: 0cm;
+        cursor: pointer;
+    }
+    .Facebook{
+        font-style: italic;
+        font-weight: bolder;
+        color: darkblue;
+        background-color: orange;
+        border: 0cm;
+        cursor: pointer;
+    }
+    .Twitter{
+        font-style: italic;
+        font-weight: bolder;
+        color: darkblue;
+        background-color: orange;
+        border: 0cm;
+        cursor: pointer;
+    }
